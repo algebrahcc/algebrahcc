@@ -1,16 +1,18 @@
-## Hi there 👋
+<!-- Title -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b>Algebrahcc</b>
+        </samp>
+</h3>
+<br>
 
-<!--
-**algebrahcc/algebrahcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+        <!-- Intro -->
+        <samp>
+                「 I'm a software developer 」
+                <br>
+                「 求知若饥，虚心若愚」
+                <br>
+                <br>
+        </samp>
+</p>
